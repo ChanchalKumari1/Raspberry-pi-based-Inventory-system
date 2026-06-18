@@ -3,6 +3,7 @@
 A complete inventory management web application for IoT/electronics components, designed for use with the **LWR201 barcode scanner** on a Raspberry Pi (or any Linux system).  
 Features include product management, barcode lookup, stock consumption, restock logging, and a clean dark‑theme UI.
 
+https://drive.google.com/drive/folders/14fCVm6q0DsJF5zCD3UxgXJ081sIC9buH?usp=sharing
 ---
 
 ## Features
