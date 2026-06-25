@@ -261,6 +261,6 @@ Common issues:
 - The input fields automatically re‑focus after scanning. If you lose focus, click inside the barcode field or press Tab.
 
 ---
-
+This Raspberry Pi-based inventory management system demonstrates real-time stock tracking, automated monitoring, and efficient warehouse operations. For custom IoT and embedded solutions, you can <a href="https://digitalmonk.biz/hire-esp32-developer/" target="_blank">hire esp32 developer</a> services to build scalable smart inventory systems.
 
 
